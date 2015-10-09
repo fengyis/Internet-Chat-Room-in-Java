@@ -22,7 +22,7 @@ XXX is the portnumber specified by administarator
 
 XXX is the destination IP address
 YYY is the portnumber defined by server.
------------------------------------------------------------------------------------------------------------------------------------------
+
 ##Functionality 
 
 ###a. User Authentication
